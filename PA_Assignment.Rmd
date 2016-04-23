@@ -78,7 +78,6 @@ result <- predict(modelRf, testCleaned[, -length(names(testCleaned))])
 result
 ```  
 
-
 ## Appendix: Figures
 
 Correlation Matrix Visualization  
